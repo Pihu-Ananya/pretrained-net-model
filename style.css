@@ -1,0 +1,35 @@
+body{
+    background-image:url("background.jpg");
+    background-size:cover;
+    background-position: center ;
+}
+
+.heading {
+    width:100%;
+    font-size:23px;
+    margin:0px;
+}
+
+.note {
+    font-size:15px;
+    color:black;
+}
+
+.div_speed {
+    float:left;
+}
+
+.div_img {
+    width:200px;
+    border-radius:100px;
+}
+
+#speed , #volume {
+    font-size:23px;
+     margin:15px;
+}
+
+.div_volume{
+    float:right;
+
+}
